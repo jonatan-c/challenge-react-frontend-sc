@@ -2,7 +2,7 @@
 
 Aplicacion para crear una lista de estudiantes, con un formulario para agregarlos y una lista para visualizarlos. Donde se podran editar y eliminar.
 
-[DEMO]( )
+[DEMO](https://challenge-react-frontend-sc.vercel.app/)
 
 ## Description
 Desarrollo de aplicacion en React con Typescript de una interfaz de usuario sencilla y funcional. Cuenta con: 
