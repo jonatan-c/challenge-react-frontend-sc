@@ -5,6 +5,7 @@ import Heading from './components/Heading'
 import StudentsList from './components/StudentsList'
 import StudentsForm from './components/StudentsForm'
 import { StudentGlobalProvider } from './context/StudentGlobalState'
+import React from 'react'
 
 function App() {
 
